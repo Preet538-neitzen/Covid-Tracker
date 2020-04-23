@@ -1,0 +1,10 @@
+.card{
+    width: 80%;
+    margin: 3px auto;
+}
+.red {
+    color: red;
+}
+.footer, .red {
+    font-size: 2em;
+}
